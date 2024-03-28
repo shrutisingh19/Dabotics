@@ -1,10 +1,10 @@
-<!-- *************************    Made By : Gaurav Jain      ********************** -->
+<!-- *************************    Made By : SHRUTI SINGH      ********************** -->
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Dabotics India (Made by Gaurav Jain)</title>
+        <title>Dabotics India (Made by SHRUTI SINGH)</title>
         <link href="https://www.dabotics.com/assets/img/favicon.png" rel="icon">
         <meta name="description" content="">
         <meta author="description" content="Gaurav Jain">
@@ -380,7 +380,7 @@
 
                     <section class="footer-copyright">
                         <div class="copyright">&#169; Copyright DaBotics. All Rights Reserved</div>
-                        <div class="gaurav"><iconify-icon icon="icon-park-outline:index-finger" style="color: rgb(84, 252, 109);" width="26" height="26" rotate="90deg"></iconify-icon> Made By Gaurav Jain</div>
+                        <div class="SHRUTI"><iconify-icon icon="icon-park-outline:index-finger" style="color: rgb(84, 252, 109);" width="26" height="26" rotate="90deg"></iconify-icon> Made By SHRUTI SINGH</div>
                     </section>
                 </div>
                 
@@ -397,4 +397,4 @@
     </body>
 </html>
 
-<!-- *************************    Made by : Gaurav Jain      ********************** -->
+<!-- *************************    Made by : SHRUTI SINGH      ********************** -->
